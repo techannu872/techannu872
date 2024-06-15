@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me ...@annu220703@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Machine Learning is only complec by its name!
+- ⚡ Fun fact: ...Machine Learning is only complex by its name!
 
 <!---
 techannu872/techannu872 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
